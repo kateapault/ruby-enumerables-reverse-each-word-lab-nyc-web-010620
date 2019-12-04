@@ -4,4 +4,4 @@ def reverse_each_word(original_string)
   reversed_words.join()
 end
 
-p reverse_each_word("Hello there, and how are you?")
+p reverse_each_word("Hello there, and how are you?")request_via_redirect
